@@ -1,0 +1,15 @@
+ @import 'tailwindcss';
+
+ @font-face {
+    font-family: "ziba";
+    src: url("/fonts/ziba.ttf");
+ }
+ @font-face {
+    font-family: "dirooz";
+    src: url("/fonts/dirooz.ttf");
+ }
+
+ @theme{
+    --font-ziba : "ziba";
+    --font-dirooz : "dirooz";
+ }
